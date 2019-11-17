@@ -1,5 +1,6 @@
 # USTB_Network_AutoManager
 北京科技大学校园网登录脚本（更新中）——python练手项目
+其实代码非常简单，最主要的就是发送一条post请求
 
 ## 关于POST请求
 在登录校园网的时候，我用Fiddler抓取到了这样一条网络请求：
