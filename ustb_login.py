@@ -7,8 +7,8 @@ import socket      # 获取本机ip。若要连接ipv6，POST请求中必须要�
 url = 'http://202.204.48.82'
 
 # ------ user accout&password
-username = "41724081"
-password = "235711zhang"
+username = "4****"
+password = "*********"
 
 # ------ get ip
 # myIP[2][4][0]就是咱们的ipv6地址了
